@@ -2,10 +2,10 @@
 
 "port":"12053/slots",
 
-"host":"localhost",
+"host":"casino.iosmioff.xyz",
 "prefix":"https://",
 
-"host_ws":"localhost",
+"host_ws":"casino.iosmioff.xyz",
 "prefix_ws":"wss://",
 
 "ssl":true
